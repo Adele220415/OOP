@@ -10,4 +10,8 @@ public class Patient{
     public void setDiagnosis(String diag){
         diagnosis = diag;
     }
+
+    // public String getID(){
+    //     return medicalID;
+    // }
 }
